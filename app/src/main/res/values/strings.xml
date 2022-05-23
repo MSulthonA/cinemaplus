@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cinemaplus</string>
+    <string name="perintah1">Choose one way to Sign in! if you don't have an account, register now!</string>
+    <string name="Registernow"><a href="https://www.google.com">Register now!</a></string>
+    <string name="ToS"><a href="https://www.google.com">Terms of Service</a></string>
+    <string name="PrivacyPolicy"><a href="https://www.google.com">Privacy Policy</a></string>
+</resources>
